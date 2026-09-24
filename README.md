@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @vincal848
-- 👀 I’m interested in Financial Mathematics, Finance, Computing, Economics, and Mathematics. I have an interest in Asset Pricing, Econometrics, ESG, and more.
-- 🌱 I’m currently learning R & Python ML models, C++, SQL, and more.
-- 💞️ I’m looking to collaborate on anything! Always down for anything cool.
-- 📫 How to reach me cal.vinson@ttu.edu or calebjvinson848@gmail.com . Preferably the former
-
-<!---
-vincal848/vincal848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, my name is Caleb Vinson
+- I am a master's student in Computational Finance at Carnegie Mellon University
+- My work centers on algorithmic \& systematic trading, commodities, equities, and financial computing.
+- Sample Projects:
+  - Agentic Power Modeling of the NYISO region (Interzonal spreads, LMP forecasting, DARTS, FTRs)
+  - Reinforcement Learning Market Maker with multivariate Hawkes Processes
+  - Combined Arms Region Simulator (C.A.R.S. - A graph formed, turn-based game simulation)
+  - IMC Prosperity Competition
+  - Volatility and ETF Trading Algorithms
+- Feel free to contact me at calebjvinson848@gmail.com 
