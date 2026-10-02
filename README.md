@@ -18,8 +18,6 @@
 
 Howdy, and thanks for stopping by. I'm a Master's student in **Computational Finance at Carnegie Mellon University**, by way of Texas. My work sits in **algorithmic and systematic trading, derivatives pricing, and forecasting in commodity and equity markets**, mostly statistical modeling and simulation in Python, R, and C++.
 
-I care about honest backtests. Most of the projects below test a model against a simple baseline or a closed-form answer, and I report it when the baseline wins.
-
 ### Current work
 
 - **Power markets:** agentic modeling of the NYISO region, covering interzonal spreads, LMP forecasting, DARTs, and FTRs
