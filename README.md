@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://vincal848.github.io"><img src="https://img.shields.io/badge/Website-The%20Daily%20Spread-8C2F1B?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:calebjvinson848@gmail.com"><img src="https://img.shields.io/badge/Email-calebjvinson848%40gmail.com-C1440E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Carnegie%20Mellon-MSCF-8C2F1B?style=flat-square" alt="Carnegie Mellon MSCF"/>
   <img src="https://img.shields.io/badge/Based%20in-Texas-5E8C7A?style=flat-square" alt="Based in Texas"/>
