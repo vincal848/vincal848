@@ -21,7 +21,7 @@ Howdy, and thanks for stopping by. I'm a Master's student in **Computational Fin
 ### Current work
 
 - **Power markets:** agentic modeling of the NYISO region, covering interzonal spreads, LMP forecasting, DARTs, and FTRs
-- **Market microstructure:** a reinforcement-learning market maker on multivariate Hawkes order flow ([MarketMicrostructure](https://github.com/vincal848/MarketMicrostructure)), with a C matching engine ([lob-engine-c](https://github.com/vincal848/lob-engine-c))
+- **Market microstructure:** a reinforcement-learning market maker on multivariate Hawkes order flow ([market-microstructure](https://github.com/vincal848/market-microstructure)), with a C matching engine ([lob-engine-c](https://github.com/vincal848/lob-engine-c))
 - **Competition:** IMC Prosperity trading challenge
 - **Strategies:** volatility and ETF trading algorithms
 
@@ -32,14 +32,14 @@ Howdy, and thanks for stopping by. I'm a Master's student in **Computational Fin
 | Project | Summary | Stack |
 |---|---|---|
 | [nyiso-grid](https://github.com/vincal848/nyiso-grid) | Probabilistic NYISO LMP forecasting on a 5-year market data warehouse, with time-block cross-validation | Python, DuckDB |
-| [options_pricing](https://github.com/vincal848/options_pricing) | European and American options by Black-Scholes, a CRR binomial tree and Crank-Nicolson, cross-validated against each other | Python |
-| [term_structure_modeling](https://github.com/vincal848/term_structure_modeling) | Vasicek, CIR, Hull-White and Black-Karasinski short-rate models checked against closed-form bond prices; Nelson-Siegel fit to the Treasury curve | R |
-| [OpporCode](https://github.com/vincal848/OpporCode) | IMC Prosperity market-making bots with a local backtester; buy-and-hold beats the market maker on the trending product | Python |
-| [MarketMicrostructure](https://github.com/vincal848/MarketMicrostructure) | Hawkes-driven limit order book simulator with competing Avellaneda-Stoikov market makers | Python |
-| [oil_price_prediction](https://github.com/vincal848/oil_price_prediction) | WTI crude forecasting: LSTM vs. echo state network, both beaten by naive persistence | Python, TensorFlow |
-| [quantum_portfolio](https://github.com/vincal848/quantum_portfolio) | Cardinality-constrained portfolio selection with QAOA, benchmarked against the exact optimum | Python, Qiskit |
-| [MCsim_differinglanguages](https://github.com/vincal848/MCsim_differinglanguages) | Risk-neutral Monte Carlo option pricing in C++, Python and R, each within 1.3 SE of Black-Scholes | C++, Python, R |
-| [BRFCalculator](https://github.com/vincal848/BRFCalculator) | Cournot, bimatrix Nash, Bayesian Cournot and repeated-game solvers checked against Gibbons' textbook examples | Python |
+| [options-pricing](https://github.com/vincal848/options-pricing) | European and American options by Black-Scholes, a CRR binomial tree and Crank-Nicolson, cross-validated against each other | Python |
+| [term-structure-modeling](https://github.com/vincal848/term-structure-modeling) | Vasicek, CIR, Hull-White and Black-Karasinski short-rate models checked against closed-form bond prices; Nelson-Siegel fit to the Treasury curve | R |
+| [imc-prosperity-market-making](https://github.com/vincal848/imc-prosperity-market-making) | IMC Prosperity market-making bots with a local backtester; buy-and-hold beats the market maker on the trending product | Python |
+| [market-microstructure](https://github.com/vincal848/market-microstructure) | Hawkes-driven limit order book simulator with competing Avellaneda-Stoikov market makers | Python |
+| [oil-price-prediction](https://github.com/vincal848/oil-price-prediction) | WTI crude forecasting: LSTM vs. echo state network, both beaten by naive persistence | Python, TensorFlow |
+| [quantum-portfolio](https://github.com/vincal848/quantum-portfolio) | Cardinality-constrained portfolio selection with QAOA, benchmarked against the exact optimum | Python, Qiskit |
+| [monte-carlo-options-multilang](https://github.com/vincal848/monte-carlo-options-multilang) | Risk-neutral Monte Carlo option pricing in C++, Python and R, each within 1.3 SE of Black-Scholes | C++, Python, R |
+| [game-theory-equilibria](https://github.com/vincal848/game-theory-equilibria) | Cournot, bimatrix Nash, Bayesian Cournot and repeated-game solvers checked against Gibbons' textbook examples | Python |
 
 ### Toolkit
 
