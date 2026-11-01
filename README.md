@@ -50,6 +50,7 @@ Howdy, and thanks for stopping by. I'm a Master's student in **Computational Fin
   <img src="https://img.shields.io/badge/C%2B%2B-8C2F1B?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-8C2F1B?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-8C2F1B?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kdb%2B%2Fq-8C2F1B?style=flat-square&logo=kx&logoColor=white"/>
   <img src="https://img.shields.io/badge/VBA-8C2F1B?style=flat-square&logo=microsoftexcel&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/NumPy-C1440E?style=flat-square&logo=numpy&logoColor=white"/>
